@@ -1,0 +1,6 @@
+
+# ---- クレデンシャル（絶対にコミットしない）----
+.env
+.env.*
+!.env.example
+!.env.template
